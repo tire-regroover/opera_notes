@@ -1,0 +1,9 @@
+[Desktop Entry]
+X-SuSE-translate=true
+Name=Opera Notes Reader
+GenericName=Opera notes file reader
+Icon=/usr/share/pixmaps/opera_notes.png
+Type=Application
+Categories=Office;Viewer;
+Exec=opera_notes
+Terminal=false
